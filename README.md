@@ -1,6 +1,7 @@
 # Faculty Leave Management System
-
 This project is developed as part of AMSD.
+The repository contains the **complete frontend implementation** of the Faculty Leave Management System.  
+Each module is implemented using **HTML, CSS, and JavaScript** and can be integrated with backend APIs.
 
 ## Modules Implemented (Frontend)
 - User & Authentication Module
@@ -17,3 +18,7 @@ This project is developed as part of AMSD.
 - HTML
 - CSS
 - JavaScript
+
+## Developer Role
+**Frontend Developer**  
+Responsible for UI design, client-side validation, and defining API requirements for backend integration.
