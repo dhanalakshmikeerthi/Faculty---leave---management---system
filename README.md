@@ -1,6 +1,6 @@
 # Faculty Leave Management System
 
-This is the **frontend implementation** of the Faculty Leave Management System developed as part of the **AMSD (Application Modeling & Software Development)** course.
+This is the **frontend implementation** of the Faculty Leave Management System developed as part of the **AMSD (Advanced Mern Stack Development)** course.
 
 Each module is built using **HTML, CSS, and JavaScript**.
 
@@ -48,4 +48,5 @@ Each module is built using **HTML, CSS, and JavaScript**.
 
 This repository contains UI for each module used in the Faculty Leave Management System.  
 The structure is beginner-friendly and organized for clear understanding and integration with a backend system.
+
 
