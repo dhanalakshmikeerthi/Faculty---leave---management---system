@@ -40,7 +40,6 @@ Each module is built using **HTML, CSS, and JavaScript**.
 ##  Project Status
 
 - Frontend modules completed ✅  
-- Backend development pending (to be integrated later) ⏳
 
 ---
 
@@ -48,5 +47,6 @@ Each module is built using **HTML, CSS, and JavaScript**.
 
 This repository contains UI for each module used in the Faculty Leave Management System.  
 The structure is beginner-friendly and organized for clear understanding and integration with a backend system.
+
 
 
